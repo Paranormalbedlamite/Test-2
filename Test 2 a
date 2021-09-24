@@ -1,17 +1,17 @@
 {
-  "title": "<manga title>",
-  "description": "<manga description>",
-  "artist": "<manga artist>",
-  "author": "<manga author>",
-  "cover": "<mangacoverurl.jpg>",
+  "title": "<AMOR>",
+  "description": "<Series of competetive Original Character Tournament chapter's taking place in the KILL SIX BILLION DEMONS setting by ABBADON.>",
+  "artist": "<Para>",
+  "author": "<Para>",
+  "cover": "<https://imgur.com/gallery/Pjqty2P>",
   "chapters": {
-    "<chapter number>": {
-      "title": "<chapter name>",
-      "volume": "<volume number>",
+    "<6>": {
+      "title": "<0>",
+      "volume": "<1>",
       "groups": {
         "<group name>": "/proxy/api/imgur/chapter/<Pjqty2P>/"
       }
       "last_updated": "1616368746"
-    },
+    }
   }
 }
